@@ -1,4 +1,4 @@
-# image-colorization
+# image-colorization-with-RL
 
 Image Colorization with Reinforcement Learning([pixelRL](https://github.com/rfuruta/pixelRL))
 
