@@ -4,5 +4,7 @@ Image Colorization with Reinforcement Learning([pixelRL](https://github.com/rfur
 
 A modified version of pixelRL to tackle colorization of gray-scale image problem.
 
+[Click for Report](https://muzunpostalci.github.io/Image-Colorization-with-pixelRL/)
+
 Final Project of Advanced Topics in Deep Learning course.
 
